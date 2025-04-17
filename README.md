@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Yuvraj Singh Rathore
 
-🎓 Computer Science Engineer Graduated| 💻 Software Develpment Engineer | 📊 Cloud and AI Engineer | Data Structure and Algorithms | 🚀 Tech Enthusiast
+💻 Software Develpment Engineer | 📊 Cloud and AI Engineer | Data Structure and Algorithms | 🚀 Tech Enthusiast
 🌐 Software Develpment Enginner @ Smoketrees Digital LLP (Bangalore)
 ---
 
