@@ -44,5 +44,5 @@ I'm a passionate developer with a strong foundation in **full-stack development*
 ## 📫 Let's Connect
 
 - 📧 yuvrajsingh1034@gmail.com  
-- 🔗 [LinkedIn]([https://linkedin.com/in/rathoreyuvrajs](https://www.linkedin.com/in/yuvrajsinghrathore833/))   
-- [GitHub]([https://github.com/yuvrajsingh833](https://github.com/yuvrajsingh833))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yuvrajsinghrathore833/)  
+- [GitHub](https://github.com/yuvrajsingh833)
