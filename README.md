@@ -14,7 +14,6 @@
 
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=yuvrajsingh833&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
 
 
