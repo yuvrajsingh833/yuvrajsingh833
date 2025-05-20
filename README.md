@@ -14,7 +14,7 @@
 
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=yuvrajsingh833&theme=microsoft-dark&card_width=497)](https://git.io/streak-stats)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
