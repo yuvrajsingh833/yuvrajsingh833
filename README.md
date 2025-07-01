@@ -13,6 +13,7 @@
 [![](https://visitcount.itsvg.in/api?id=yuvrajsingh833&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=yuvrajsingh833&theme=radical)](https://git.io/streak-stats)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
