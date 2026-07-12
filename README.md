@@ -60,7 +60,7 @@ Data Structures & Algorithms, System Design, Object-Oriented Programming (OOP), 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
@@ -73,32 +73,44 @@ Data Structures & Algorithms, System Design, Object-Oriented Programming (OOP), 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-0078D4?style=for-the-badge)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
 ---
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-### 🤖 AI & GenAI
+### 🤖 AI / GenAI / Agentic AI
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-blue?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLMs-Generative_AI-success?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-Agentic_AI-purple?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-orange?style=for-the-badge)
-![Vector DB](https://img.shields.io/badge/Vector_Database-4B8BBE?style=for-the-badge)
-![Mem0](https://img.shields.io/badge/Mem0-AI_Memory-black?style=for-the-badge)
-![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-8A2BE2?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-Generative_AI-success?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-purple?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-6A1B9A?style=for-the-badge)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-8A2BE2?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF9800?style=for-the-badge)
+![Vector Database](https://img.shields.io/badge/Vector_DB-00ACC1?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-2196F3?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-3F51B5?style=for-the-badge)
+![Memory](https://img.shields.io/badge/Mem0-000000?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-795548?style=for-the-badge)
+![Function Calling](https://img.shields.io/badge/Function_Calling-4CAF50?style=for-the-badge)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-009688?style=for-the-badge)
+![AI Workflows](https://img.shields.io/badge/AI_Workflows-FF5722?style=for-the-badge)
+![Voice AI](https://img.shields.io/badge/Voice_AI-607D8B?style=for-the-badge)
+![AI Avatar](https://img.shields.io/badge/AI_Avatar-8BC34A?style=for-the-badge)
 
 ---
 
@@ -112,23 +124,25 @@ Data Structures & Algorithms, System Design, Object-Oriented Programming (OOP), 
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![Amazon ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=for-the-badge)
+![VPS](https://img.shields.io/badge/VPS-00599C?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SSL/TLS](https://img.shields.io/badge/SSL/TLS-009639?style=for-the-badge)
 
 ---
 
 ### 📨 Messaging & Distributed Systems
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Redis Pub/Sub](https://img.shields.io/badge/Redis_Pub/Sub-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-0078D4?style=for-the-badge)
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-00897B?style=for-the-badge)
-![Event Driven](https://img.shields.io/badge/Event--Driven_Architecture-6A1B9A?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-00796B?style=for-the-badge)
+![Event Driven Architecture](https://img.shields.io/badge/Event_Driven_Architecture-6A1B9A?style=for-the-badge)
+![Caching](https://img.shields.io/badge/Caching-E91E63?style=for-the-badge)
 
 ---
 
@@ -138,8 +152,18 @@ Data Structures & Algorithms, System Design, Object-Oriented Programming (OOP), 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![ExcelJS](https://img.shields.io/badge/ExcelJS-217346?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+---
+
+### 📚 Computer Science
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-0A66C2?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-6C63FF?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-FF6F61?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-00758F?style=for-the-badge)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-607D8B?style=for-the-badge)
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-3F51B5?style=for-the-badge)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yuvrajsingh833&icon=0&color=0)](https://visitcount.itsvg.in)
