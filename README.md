@@ -1,5 +1,49 @@
 # 💫 About Me:
-👋 Hi there! I'm Yuvraj Singh Rathore<br>💻 Software Develpment Engineer | 📊 Backend, Cloud and AI Engineer | Data Structure and Algorithms | 🚀 Tech Enthusiast 🌐 Software Develpment Enginner @ TrueFan AI <br>👨‍💻 About Me<br>I'm a passionate developer with a strong foundation in full-stack development, Backend Development, AI Technolgies, and cloud technologies. I enjoy building scalable web apps, solving real-world problems, Solving Data Structures and Algorithms Problems on daily basis and continuously learning new tech.<br><br>🎓 B.Tech CSE @ VIT Bhopal University <br><br>🛠️ Worked on various Full Stack Projects like E-learming, E-commerce, Hospital Website and many mores...<br><br>🧰 Tech Stack<br>Languages:<br>Python, Java, JavaScript, TypeScript SQL<br><br>Frameworks & Libraries:<br>Django, FastAPI, Spring Boot, React.js, Next.js, Node.js, Express.js, Tailwind CSS<br><br>Databases & Cloud:<br>MongoDB MySQL, PostgreSQL AWS<br><br>Tools & Others:<br> RabbitMQ, Kafka, Redis, Kubernates, CI/CD, Microservices, Event Driven Arcitecture, Celery, AWS, EC2, S3, Cloud, AISystem Design, Git, Excel, Power, BI ExcelJS, Postman Jira DSA<br><br>🏆 Achievements<br>🧠 SIH 2023 Finalist | Price Comparison System for GeM Platform<br>🥇 District Winner - Swachh Bharat Abhiyan (Pali, Rajasthan)<br>🔥2 Year+ GitHub Streak<br>👨‍💼 President - Software Development Club @ VIT Bhopal
+👋 Hi there! I'm <b>Yuvraj Singh Rathore</b><br>
+💻 Software Development Engineer | ⚙️ Backend Engineer | ☁️ Cloud & AI Engineer | 🤖 GenAI Engineer | 📊 Data Structures & Algorithms | 🚀 Tech Enthusiast<br>
+🌐 Software Development Engineer @ <b>TrueFan AI</b><br><br>
+
+👨‍💻 <b>About Me</b><br>
+I'm a passionate Software Development Engineer with expertise in building scalable backend systems, AI-powered applications, and cloud-native solutions. I specialize in designing distributed systems, developing high-performance APIs, integrating LLMs and AI agents, and building production-ready AI applications. I enjoy solving real-world problems, practicing Data Structures & Algorithms, and continuously learning emerging technologies.<br><br>
+
+🎓 B.Tech in Computer Science & Engineering @ VIT Bhopal University<br><br>
+
+🛠️ Built production-grade AI, Backend & Full Stack applications including AI Voice Agents, AI Avatar-to-Video Generation, Learning Management Systems, Ticketing Platforms, E-Commerce Platforms, Hospital Management Systems, and Enterprise Admin Portals.<br><br>
+
+🧰 <b>Tech Stack</b><br><br>
+
+💻 <b>Languages:</b><br>
+Python, Java, JavaScript, TypeScript, SQL, PHP<br><br>
+
+⚙️ <b>Backend:</b><br>
+Django, Django REST Framework (DRF), FastAPI, Spring Boot, Node.js, Express.js, REST APIs, Microservices, Celery<br><br>
+
+🎨 <b>Frontend:</b><br>
+React.js, Next.js, Redux, Redux Toolkit, React Query, TanStack Query, HTML5, CSS3, Tailwind CSS, SSR/CSR, Responsive UI<br><br>
+
+🤖 <b>AI & GenAI:</b><br>
+LangChain, LangGraph, OpenAI API, RAG (Retrieval-Augmented Generation), AI Agents, Multi-Agent Systems, Prompt Engineering, Vector Databases, LLM Integration, AI Workflows, AI Voice Agents, AI Avatar Generation, Mem0<br><br>
+
+🗄️ <b>Databases:</b><br>
+PostgreSQL, MongoDB, MySQL, Redis<br><br>
+
+☁️ <b>Cloud & DevOps:</b><br>
+AWS, ECS, EC2, S3, Docker, Kubernetes, CI/CD, VPS, SSL/TLS<br><br>
+
+📬 <b>Messaging & Distributed Systems:</b><br>
+RabbitMQ, Kafka, Redis Pub/Sub, Event-Driven Architecture, Distributed Systems, Caching<br><br>
+
+🛠️ <b>Tools & Platforms:</b><br>
+Git, GitHub, Linux, Postman, Jira, VS Code, ExcelJS, Power BI<br><br>
+
+📚 <b>Core Computer Science:</b><br>
+Data Structures & Algorithms, System Design, Object-Oriented Programming (OOP), Operating Systems, DBMS, Computer Networks, Multithreading, Concurrency<br><br>
+
+🏆 <b>Achievements</b><br>
+🧠 Smart India Hackathon (SIH) 2023 Finalist – Price Comparison System for GeM Platform<br>
+🥇 District Winner – Swachh Bharat Abhiyan (Pali, Rajasthan)<br>
+🔥 2+ Years GitHub Streak<br>
+👨‍💼 Former President – Software Development Club @ VIT Bhopal
 
 
 ## 🌐 Socials:
